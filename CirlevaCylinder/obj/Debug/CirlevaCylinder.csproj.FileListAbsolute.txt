@@ -1,0 +1,7 @@
+E:\C#\online\W06\kethua\CirlevaCylinder\CirlevaCylinder\bin\Debug\CirlevaCylinder.exe.config
+E:\C#\online\W06\kethua\CirlevaCylinder\CirlevaCylinder\bin\Debug\CirlevaCylinder.exe
+E:\C#\online\W06\kethua\CirlevaCylinder\CirlevaCylinder\bin\Debug\CirlevaCylinder.pdb
+E:\C#\online\W06\kethua\CirlevaCylinder\CirlevaCylinder\obj\Debug\CirlevaCylinder.csproj.AssemblyReference.cache
+E:\C#\online\W06\kethua\CirlevaCylinder\CirlevaCylinder\obj\Debug\CirlevaCylinder.csproj.CoreCompileInputs.cache
+E:\C#\online\W06\kethua\CirlevaCylinder\CirlevaCylinder\obj\Debug\CirlevaCylinder.exe
+E:\C#\online\W06\kethua\CirlevaCylinder\CirlevaCylinder\obj\Debug\CirlevaCylinder.pdb
